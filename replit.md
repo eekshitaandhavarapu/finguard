@@ -32,6 +32,7 @@ FinGuard is a financial transaction anomaly detection platform that combines SQL
 - `analysis/run_sql_rules.py` — executes rules and rebuilds `sql_flags`
 - `analysis/benford_analysis.py` — Benford goodness-of-fit analysis and transaction scores
 - `analysis/anomaly_model.py` — Isolation Forest and PyOD LOF model scores
+- `scoring/risk_scoring.py` — weighted composite risk score and held-out evaluation
 - `artifacts/api-server` — shared API service for the later dashboard
 
 ## Architecture decisions
