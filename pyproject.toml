@@ -1,0 +1,14 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "FinGuard synthetic transaction data pipeline"
+requires-python = ">=3.11"
+dependencies = [
+    "faker==37.1.0",
+    "numpy==2.2.5",
+    "pandas==2.2.3",
+    "psycopg[binary]==3.2.6",
+    "pyod==2.0.5",
+    "scikit-learn==1.6.1",
+    "scipy==1.15.2",
+]
