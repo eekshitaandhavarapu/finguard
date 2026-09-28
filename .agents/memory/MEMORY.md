@@ -1,0 +1,1 @@
+- [Streamlit deployment setup](streamlit-deployment.md) — Replit autoscale needs a headless port-5000 run command and pinned requirements for Streamlit apps.
