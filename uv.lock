@@ -1346,7 +1346,7 @@ requires-dist = [
     { name = "pyod", specifier = "==2.0.5" },
     { name = "scikit-learn", specifier = "==1.6.1" },
     { name = "scipy", specifier = "==1.15.2" },
-    { name = "streamlit", specifier = ">=1.64.0" },
+    { name = "streamlit", specifier = "==1.64.0" },
 ]
 
 [[package]]

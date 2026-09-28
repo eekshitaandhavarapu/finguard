@@ -16,6 +16,16 @@ __pycache__/
 .pytest_cache/
 data/generated/
 
+# secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+service-account*.json
+secrets/
+
 # IDEs and editors
 /.idea
 .project

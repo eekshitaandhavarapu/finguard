@@ -11,5 +11,5 @@ dependencies = [
     "pyod==2.0.5",
     "scikit-learn==1.6.1",
     "scipy==1.15.2",
-    "streamlit>=1.64.0",
+    "streamlit==1.64.0",
 ]
